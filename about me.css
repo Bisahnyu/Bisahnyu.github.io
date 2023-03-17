@@ -1,0 +1,37 @@
+body{
+    background-image: url(./images/shutterstock_664284277-1000x667-1.jpg);
+    color: white;
+}
+
+
+
+.proceed-button{
+
+    border: none;
+    border-radius: 0px;
+    padding-right: 50px;
+    padding-left: 40px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.proceed-box{
+    width: 200px;
+    height: 350px;
+    background: white;
+    color: white;
+    top: 15%;
+    left: 50px;
+    box-sizing: border-box;
+    margin-top: 40px;
+    padding-top: 15px;
+    padding-left: 5px;
+    margin-left: 300;
+    padding-bottom: 150px;
+    border: 2px black solid;
+    background-image: url(./images/wp8198970.jpg)
+}
+
+
+
+ 
+
